@@ -1,1 +1,1 @@
-# trofy
+# trofy solve
