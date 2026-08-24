@@ -1,2 +1,1 @@
-# issuse
-badge
+# issuse badge
